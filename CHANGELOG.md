@@ -3,6 +3,12 @@ Changelog
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased]
+
+### Added
+
+- Add a custom suffix to the version number and modify the repository ([h12o](https://github.com/blessedgeeks-org/mastodon/issues/1))
+
 ## [3.3.0] - 2020-12-27
 ### Added
 
