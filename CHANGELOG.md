@@ -3,6 +3,16 @@ Changelog
 
 All notable changes to this project will be documented in this file.
 
+## [3.3.0#blessedgeeks-org] - 2021-01-17
+### Added
+
+- Add a custom suffix to the version number and modify the repository ([h12o](https://github.com/blessedgeeks-org/mastodon/issues/1))
+- Add fedibird's quoting feature ([h12o](https://github.com/blessedgeeks-org/mastodon/issues/2))
+
+### Fixed
+
+- Fix getting-started footer in single column mode not being clickable in Safari ([noellabo](https://github.com/tootsuite/mastodon/pull/15496))
+
 ## [3.3.0] - 2020-12-27
 ### Added
 

@@ -21,7 +21,7 @@ module Mastodon
     end
 
     def suffix
-      ''
+      '#blessedgeeks-org'
     end
 
     def to_a
@@ -33,7 +33,7 @@ module Mastodon
     end
 
     def repository
-      ENV.fetch('GITHUB_REPOSITORY', 'tootsuite/mastodon')
+      ENV.fetch('GITHUB_REPOSITORY', 'blessedgeeks-org/mastodon')
     end
 
     def source_base_url
