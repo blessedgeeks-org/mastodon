@@ -6,10 +6,7 @@ All notable changes to this project will be documented in this file.
 ## [Unreleased]
 ### Fixed
 
-- Bump mimemagic from 0.3.5 to 0.3.10 ([h12o](https://github.com/blessedgeeks-org/mastodon/issues/5))
-  - Bump Rails from 5.2.4.4 to 5.2.5
-  - Bump marcel from 0.3.3 to 1.0.0
-  - Bump mini_mime from 1.0.2 to 1.0.3
+- Bump mastodon from 3.3.0 to 3.4.0 ([h12o](https://github.com/blessedgeeks-org/mastodon/issues/6))
 
 ## [3.4.0] - 2021-05-16
 ### Added
