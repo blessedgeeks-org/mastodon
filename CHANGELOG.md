@@ -3,7 +3,7 @@ Changelog
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
+## [3.4.1#blessedgeeks-org] - 2021-06-13
 ### Fixed
 
 - Bump mastodon from 3.4.0 to 3.4.1 ([h12o](https://github.com/blessedgeeks-org/mastodon/issues/7))
